@@ -5,22 +5,22 @@ I'm a young entrepreneur with a passion for programming, especially in WordPress
 
 ## 🧑‍💻 About Me
 - 👨‍💻 **Name:** Amir Tohidlo
-- 💼 **Specialties:** Entrepreneurship, WordPress development, PHP programming, web development
+- 💼 **Specialties:** Business management, project management, WordPress development, PHP programming, web development
 - 📚 **Skills:** PHP, WordPress, jQuery, JavaScript, HTML, CSS, Bootstrap, and anything I need to learn for my work.
 
-As a passionate entrepreneur, I enjoy coding as a tool to enhance my business ventures and create impactful websites.
+As a driven entrepreneur, I see programming as a vital tool to enhance my business development and explore new career paths, allowing me to innovate and create impactful solutions for my ventures.
 
 ---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tohidlo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tohidlo&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tohidlo&theme=radical)
+![Streak](https://github-readme-stats.vercel.app/api/streak-stats/?user=tohidlo&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
-I'm currently learning how to manage my time effectively and automate tasks to improve productivity. My passion is coding, but my main job is managing the businesses I own.
+I'm currently learning how to manage my time effectively and automate tasks to improve productivity.
 
 ---
 
@@ -39,7 +39,7 @@ Here are some of my recent projects that showcase my work:
 ---
 
 ## 💡 Interests and Hobbies
-In addition to coding, I enjoy **[mention hobbies, such as reading or blogging]**.
+In addition to coding, I enjoy content creation about programming.
 
 ---
 
