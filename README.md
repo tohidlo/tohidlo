@@ -12,34 +12,10 @@ As a driven entrepreneur, I see programming as a vital tool to enhance my busine
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tohidlo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tohidlo&layout=compact&theme=radical)
-![Streak](https://github-readme-stats.vercel.app/api/streak-stats/?user=tohidlo&theme=radical)
-
----
-
-## 🌱 Currently Learning
-I'm currently learning how to manage my time effectively and automate tasks to improve productivity.
-
----
-
 ## 📫 How to Reach Me
 - **Website:** [tohidlo.com](https://tohidlo.com)
 - **Email:** [amir@tohidlo.com](mailto:amir@tohidlo.com)
 - **LinkedIn:** [Amir Tohidlo on LinkedIn](https://www.linkedin.com/in/tohidlo)
-
----
-
-## ✨ Featured Projects
-Here are some of my recent projects that showcase my work:
-- **[Shamsi-Date](link-to-project)**: A PHP project for converting Gregorian dates to Jalali.
-- **[TolTime](link-to-project)**: A CSS framework designed for creating visually appealing timeline displays.
-
----
-
-## 💡 Interests and Hobbies
-In addition to coding, I enjoy content creation about programming.
 
 ---
 
