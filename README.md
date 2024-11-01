@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Amir Tohidlo
-I'm a young entrepreneur and a professional web developer specializing in WordPress and PHP! 🚀
+I'm a young entrepreneur with a passion for programming, especially in WordPress and PHP! 🚀
 
 ---
 
 ## 🧑‍💻 About Me
 - 👨‍💻 **Name:** Amir Tohidlo
-- 💼 **Specialties:** WordPress development, PHP programming, web development
-- 📚 **Skills:** PHP, WordPress, jQuery, JavaScript, HTML, CSS, Bootstrap, and other web technologies
+- 💼 **Specialties:** Entrepreneurship, WordPress development, PHP programming, web development
+- 📚 **Skills:** PHP, WordPress, jQuery, JavaScript, HTML, CSS, Bootstrap, and anything I need to learn for my work.
 
-With years of experience in web development, I’m passionate about creating impactful websites and driving entrepreneurial projects.
+As a passionate entrepreneur, I enjoy coding as a tool to enhance my business ventures and create impactful websites.
 
 ---
 
@@ -20,7 +20,7 @@ With years of experience in web development, I’m passionate about creating imp
 ---
 
 ## 🌱 Currently Learning
-I'm constantly exploring new technologies to enhance my development skills. Currently, I’m focused on **[mention any new technology]**.
+I'm currently learning how to manage my time effectively and automate tasks to improve productivity. My passion is coding, but my main job is managing the businesses I own.
 
 ---
 
