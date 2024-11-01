@@ -28,4 +28,4 @@ As a driven entrepreneur, I see programming as a vital tool to enhance my busine
 
 ---
 
-**Thank you for visiting my profile! I’m always open to connecting and collaborating! 🙏**
+**I'm always open to new connections and collaborations. Let’s innovate and create together! 🚀**
