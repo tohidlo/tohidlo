@@ -4,7 +4,7 @@ I'm a young entrepreneur with a passion for programming, especially in WordPress
 ---
 
 ## 🧑‍💻 About Me
-- 👨‍💻 **Name:** Amir Tohidlo
+-  **Name:** Amir Tohidlo
 
 As a driven entrepreneur, I see programming as a vital tool to enhance my business development and explore new career paths, allowing me to innovate and create impactful solutions for my ventures.
 
