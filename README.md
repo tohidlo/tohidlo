@@ -1,11 +1,12 @@
-# Hi there! 👋 I'm Amir Tohidlo
-  PHP developer passionate about solving challenging problems and learning new skills. 🚀
+# Hi there! 👋
+  PHP developer passionate about solving challenging problems and learning new skills.
 
 ---
 
 ## 🧑‍💻 About Me
-- As a driven entrepreneur, I see programming as a vital tool to enhance my business development and explore new career paths, allowing me to innovate and create impactful solutions for my ventures.
+- I started my professional journey in web development in 2019 and have been specializing in PHP and backend development since 2021. During this time, I have worked on various projects in these fields, gaining valuable experience, and I am still focused on learning and further developing my skills in these areas.
 
+- 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
