@@ -20,7 +20,7 @@
 ## 📫 How to Reach Me
 - **Website:** [tohidlo.com](https://tohidlo.com)
 - **Email:** [amir@tohidlo.com](mailto:amir@tohidlo.com)
-- **LinkedIn:** [Amir Tohidlo on LinkedIn](https://www.linkedin.com/in/tohidlo)
+- **LinkedIn:** [Tohidlo](https://www.linkedin.com/in/tohidlo)
 
 ---
 
