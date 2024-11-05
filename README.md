@@ -8,27 +8,26 @@
 
 
 ### **Frontend Skills**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&logoWidth=20)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/JQuery_logo_2.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="30"/>
 
 ### **Backend Skills**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=20)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/WordPress_logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Node.js_logo.svg" width="30"/>
 
 ### **Databases & Servers**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-232F3E?style=for-the-badge&logo=apache&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/MongoDB_logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Apache_logo.svg" width="30"/>
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.svg" width="30"/>
 
 ---
 
