@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Amir Tohidlo
-I'm a young entrepreneur with a passion for programming, especially in WordPress and PHP! 🚀
-
+    PHP developer passionate about solving challenging problems and learning new skills. 🚀
 ---
 
 ## 🧑‍💻 About Me
