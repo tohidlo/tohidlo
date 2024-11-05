@@ -1,5 +1,5 @@
 # Hi there! 👋
-  PHP developer passionate about solving challenging problems and learning new skills.
+  PHP developer passionate about solving challenging problems and learning new skills
 
 ---
 
