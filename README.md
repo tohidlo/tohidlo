@@ -30,4 +30,5 @@
 
 ---
 
-**I'm always open to new connections and collaborations. Let’s innovate and create together! 🚀**
+**I'm always open to new connections and collaborations. Let’s innovate and create together! 🚀** [.](https://example.com)
+
