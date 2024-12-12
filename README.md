@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
-💬 I started my professional journey in web development in 2019 and have been working in PHP and backend development since 2021. During this time, I have worked on various projects and gained valuable experience. Additionally, I am still committed to learning and further developing my skills in these areas.
+[💬](https://drive.google.com/file/d/1Hdmpk9EeX2pIJtlwhADVgxO3xewtXrJ8/view) I started my professional journey in web development in 2019 and have been working in PHP and backend development since 2021. During this time, I have worked on various projects and gained valuable experience. Additionally, I am still committed to learning and further developing my skills in these areas.
 
 ### **Frontend Skills**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,5 +30,5 @@
 
 ---
 
-**I'm always open to new connections and collaborations. Let’s innovate and create together! 🚀** [.](https://example.com)
+**I'm always open to new connections and collaborations. Let’s innovate and create together! 🚀** 
 
